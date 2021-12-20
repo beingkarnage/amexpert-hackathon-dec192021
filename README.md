@@ -1,6 +1,6 @@
 ### AmExpert Hackathon - Credit Card fraud detection
 
-#####Performed the simplest EDA
+##### Performed the simplest EDA
 1.checking of null vals, duplicates
 2. checking of corelations
 3. discarding useless columns according to EDA(variance threshold)
